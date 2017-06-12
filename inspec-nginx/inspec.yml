@@ -1,0 +1,8 @@
+name: inspec-nginx
+title: InSpec Profile
+maintainer: Pablo Mena
+copyright: Pablo Mena
+copyright_email: you@example.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.1.0
